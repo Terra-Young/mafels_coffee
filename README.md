@@ -43,7 +43,7 @@ The project was executed in three distinct stages:
 **Uniform Success:** All three locations (Hell's Kitchen, Astoria, Lower Manhattan) perform at a nearly identical high level, each contributing ~£230k+ in revenue.
 
 ---
-##💡 Recommendations
+## 💡 Recommendations
 Based on the data analysis, the following strategies are recommended:
 ### Operational Optimization
 **Split-Shift Roster:** Maximize barista headcount during the **7 AM – 10 AM** window to handle extreme volume, and reduce staffing significantly after 11 AM to control labor costs.
