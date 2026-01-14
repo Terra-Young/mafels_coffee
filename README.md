@@ -21,7 +21,7 @@ The project was executed in three distinct stages:
 * Built a dynamic dashboard using Pivot Charts to visualize insights.
 * Designed the interface to facilitate the identification of actionable recommendations.
 ---
-##📊 Key Insights
+## 📊 Key Insights
 ###1. Sales Performance & Growth
 **Revenue Growth:** Monthly revenue doubled over the 6-month period, rising from **£81.6K in Jan** to **£166.5K in June**.
 **Seasonality:** Following a slight dip in Feb (-6.7%), the shop experienced explosive growth in March (+29%), April (+20%), and May (+31%), indicating successful spring customer acquisition.
