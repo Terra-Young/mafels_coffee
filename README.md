@@ -1,9 +1,3 @@
-# mafels_coffee
-Analysed sales transaction data from Jan 2023 to June 2023 for Mafels Coffee Shop, creating an interactive dashboard to identify sales trends, peak operational hours, and top-performing products to drive strategic business decisions.
-Here is a structured rewrite of the project details, formatted as a GitHub `README.md` file.
-
----
-
 # Mafels Coffee Shop Sales Analysis Dashboard
 
 ## 📌 Project Overview
@@ -15,10 +9,8 @@ Here is a structured rewrite of the project details, formatted as a GitHub `READ
 The project was executed in three distinct stages:
 
 ### 1. Data Preparation
-
-* 
+ 
 **Data Exploration:** Conducted initial data QA and profiling to understand transaction volume and product scope.
-
 
 * **Feature Engineering:**
 * Added a new column to calculate **Revenue**.
