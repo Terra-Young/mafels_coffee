@@ -20,6 +20,9 @@ The project was executed in three distinct stages:
 ### 3. Dashboard Visualization
 * Built a dynamic dashboard using Pivot Charts to visualize insights.
 * Designed the interface to facilitate the identification of actionable recommendations.
+
+![Dashboard](Mafels_dashboard.jpg)
+
 ---
 ## 📊 Key Insights
 ### 1. Sales Performance & Growth
